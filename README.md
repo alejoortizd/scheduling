@@ -17,9 +17,9 @@ For this project we create the following endpoints:
 
 Endpoint | Method | Description
 -- | -- | --
-/api/psicologos | GET | List all psy from the DB
+/api/psy | GET | List all psy from the DB
 /api/patient/new | POST | Create a new patient and save at DB
-/api/psicologos/new | POST | Create a new psy and save at DB
+/api/psy/new | POST | Create a new psy and save at DB
 /api/schedule | GET | Show an specific schedule
 /api/schedule/newSchedule | POST | Create and asing a new schedule
 /api/schedule/newRest | POST | Create and asing a new rest
@@ -30,11 +30,11 @@ Endpoint | Method | Description
 ## Usages
 Example of usages of the diferents endpoints
 
-1. /api/psicologos
+1. /api/psy
   <img src="https://imgur.com/OTMrHOy.png">
 2. /api/patient/new
   <img src="https://imgur.com/g67HVc8.png">
-3. /api/psicologos/new
+3. /api/psy/new
   <img src="https://imgur.com/D6RNt2B.png">
 4. /api/schedule |
   <img src="https://imgur.com/ZaRpclk.png">
