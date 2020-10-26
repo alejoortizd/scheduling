@@ -1,4 +1,4 @@
-# Terapify
+# Scheduling
 
 ## Challenge
 ---
