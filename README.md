@@ -1,6 +1,6 @@
 # Scheduling
 
-## Challenge
+## Scheduling Endpoints
 ---
 Build a REST service that allow know the different available schedules of a psychologist, taking into account the data and being able to create and appointment in the slot that user choose ensuring that this slot will be available when make a booking
 
@@ -44,9 +44,6 @@ Example of usages of the diferents endpoints
   <img src="https://imgur.com/tdoVvdw.png">
 7. /api/session/newReserva
   <img src="https://imgur.com/CqOZ5Hk.png">
-
-Finally you can visit the follow postman [link](https://documenter.getpostman.com/view/11548428/TVReer21)
-to check how works the REST!
 
 
 ## License
