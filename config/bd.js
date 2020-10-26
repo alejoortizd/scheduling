@@ -4,7 +4,7 @@ module.exports = {
   connection: null,
   connect: () => {
     if (this.connection) return this.connection;
-    return mongoose.connect('mongodb://localhost/terapify', {
+    return mongoose.connect('mongodb://localhost/schedule', {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useCreateIndex: true,
